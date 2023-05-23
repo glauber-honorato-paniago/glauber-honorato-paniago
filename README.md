@@ -10,8 +10,8 @@
 ![snake gif](https://github.com/glauber-honorato-paniago/glauber-honorato-paniago/blob/output/github-contribution-grid-snake.svg)
 
 <div align="center">
-  <a href="mailto:hglauber979@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"><img/>
+  <a href="https://www.linkedin.com/in/glauber-honorato-paniago-788226271">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"><img/>
   </a>
   <a href="https://www.instagram.com/glauber.honorato_">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"><img/>
