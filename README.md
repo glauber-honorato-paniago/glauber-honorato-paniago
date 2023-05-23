@@ -17,7 +17,6 @@
   <a href="https://discord.com/users/729415229880139826">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"><img/>
   </a>
-  
 </div>
-![Snake animation](https://github.com/glauber-honorato-paniago/glauber-honorato-paniago/blob/output/github-contribution-grid-snake.svg)
 
+![snake gif](https://github.com/glauber-honorato-paniago/glauber-honorato-paniago/blob/output/github-contribution-grid-snake.svg)
