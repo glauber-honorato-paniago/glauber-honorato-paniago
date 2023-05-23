@@ -19,4 +19,5 @@
   </a>
   
 </div>
+![Snake animation](https://github.com/glauber-honorato-paniago/glauber-honorato-paniago/blob/output/github-contribution-grid-snake.svg)
 
